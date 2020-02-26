@@ -1,0 +1,14 @@
+{
+  "name": "digGraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hellsingi/digGraphQL.git",
+  "author": "Hellsingi <f.c.realmadrid@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "sequelize": "^5.21.5",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.1.1",
+    "yarn": "^1.22.0"
+  }
+}
